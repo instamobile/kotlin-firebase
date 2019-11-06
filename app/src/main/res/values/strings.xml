@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Instakotlin Starter Kit</string>
+    <string name="continue_string">Continue</string>
+
+
+    <string name="stay_in_touch">Use this starter kit to build your Android app faster.</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome_to_messenger">Kotlin Starter Kit with Firebase</string>
+
+    <string name="facebookLogin">Facebook Login</string>
+    <string name="facebook_app_id">686078505161575</string>
+    <string name="fb_login_protocol_scheme">fb686078505161575</string>
+
+    <string name="fullName">Full Name</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone Number</string>
+    <string name="or">or</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="name_required_error">Name is required to sign up.</string>
+    <string name="phone_required_error">Phone number is required to sign up.</string>
+    <string name="email_required_error">Email address is required to sign up.</string>
+    <string name="password_required_error">Password is required to sign up.</string>
+    <string name="malformed_phone_error">This phone number is badly formatted.</string>
+    <string name="malformed_email_error">This email address is badly formatted.</string>
+    <string name="short_password_error">Password should be at least 6 characters.</string>
+    <string name="select_image">Select Image</string>
+    <string name="logout">Log Out</string>
+
+</resources>
