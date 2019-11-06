@@ -1,6 +1,8 @@
-# Kotlin Firebase - Android Starter Project with Authentication, Firestore & Storage Integration
+# Kotlin Firebase - Android Starter Project
 
-Kotlin project for Android, with Firebase integration for
+Android Starter Project with Authentication, Firestore & Storage Integration.
+
+This Kotlin project for Android is an open-source boilerplate project with Firebase integrations for:
 * User Authentication
 * Firestore Database
 * Firebase Storage
@@ -9,5 +11,7 @@ Kotlin project for Android, with Firebase integration for
 * Login with Email & Password
 * Profile Photo Upload
 * Walkthrough Onboarding Flow
+
+Save a couple of days of development by bootstrapping your new mobile app with this Kotlin Firebase starter kit for Android.
 
 Coded with ❤️️ by <a href="https://www.instakotlin.com">Instakotlin</a>.
